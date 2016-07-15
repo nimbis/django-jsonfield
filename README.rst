@@ -87,6 +87,7 @@ Email: `contact@bradjasper.com`_
 
 Changes
 -------
+v1.0.0+nimbis.1 7/15/2016 -- Catch attribute error for south data migrations, revert pk test which breaks subclasses
 
 v1.0.0, 9/4/2014 -- Removed native JSON datatype support for PostgreSQL (breaking change) & added Python 3.4 to tests
 
